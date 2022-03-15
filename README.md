@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi I'm Martin 👋
+
+Welcome to my profile!
+I'm Martin Klestil from Austria and currently working as a Paramedic. <br>
+I teach myself to code, I love coding and learning new skills. I'm learning Java, JavaScript, React and much more.<br>
+Thanks for the visit.
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-martinklestil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-klestil/)](https://www.linkedin.com/in/martin-klestil/)
+[![Xing Badge](https://img.shields.io/badge/-@MKlestil-green?style=flat&labelColor=green&logo=xing&logoColor=white&link=https://www.xing.com/profile/Martin_Klestil2)](https://www.xing.com/profile/Martin_Klestil2)
+[![Twitter Badge](https://img.shields.io/badge/-@MKlestil-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MKlestil)](https://twitter.com/MKlestil)
+
+
 
 <!--
 **mklestil/mklestil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
