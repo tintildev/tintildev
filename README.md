@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 I'm Martin Klestil from Austria and currently working as a Paramedic. <br>
-I teach myself to code, I love coding and learning new skills. I'm learning Java, JavaScript, React and much more.<br>
+I teach myself to code and currently I'm learning Java, JavaScript, React.<br>
 Thanks for the visit.
 
 
