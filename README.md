@@ -7,7 +7,7 @@ Thanks for the visit.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-martinklestil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-klestil/)](https://www.linkedin.com/in/martin-klestil/)
-[![Xing Badge](https://img.shields.io/badge/-@MKlestil-green?style=flat&labelColor=green&logo=xing&logoColor=white&link=https://www.xing.com/profile/Martin_Klestil2)](https://www.xing.com/profile/Martin_Klestil2)
+[![Xing Badge](https://img.shields.io/badge/-MartinKlestil-green?style=flat&labelColor=green&logo=xing&logoColor=white&link=https://www.xing.com/profile/Martin_Klestil2)](https://www.xing.com/profile/Martin_Klestil2)
 [![Twitter Badge](https://img.shields.io/badge/-@MKlestil-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MKlestil)](https://twitter.com/MKlestil)
 
 
