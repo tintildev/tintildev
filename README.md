@@ -1,11 +1,11 @@
 ### Hi I'm Martin 👋
 
-Welcome to my profile!
+## Welcome to my profile!
 I'm Martin Klestil from Austria and currently working as a Paramedic. <br>
 I teach myself to code and currently I'm learning Java, JavaScript, React.<br>
 Thanks for the visit.
 
-A quick introduction
+## A quick introduction
 🔭 I’m currently working with Java, JavaScript
 🌱 I’m currently learning Spring Boot, React.
 
