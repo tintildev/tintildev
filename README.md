@@ -7,7 +7,7 @@ In addition to my job, I'm learning programming, and I've found fun in Java and 
 
 ### A quick introduction
 - 🔭 I’m currently working with Java, JavaScript
-- 🌱 I’m currently learning Spring Boot, React, PHP.
+- 🌱 I’m currently learning Java, Spring Boot, React.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-martinklestil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-klestil/)](https://www.linkedin.com/in/martin-klestil/)
