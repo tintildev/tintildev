@@ -1,14 +1,3 @@
-## Hi I'm Martin 👋
-
-### Welcome to my profile!
-I'm Martin Klestil from Austria and currently working as a Paramedic. <br> 
-In addition to my job, I'm learning programming, and I've found fun in Java and web development.<br>
-
-
-### A quick introduction
-- 🔭 I’m currently working with Java, JavaScript
-- 🌱 I’m currently learning Java, JavaFX, Spring Boot, React.
-
 ## Hi, I'm Martin 👋
 Welcome to my GitHub profile!
 
